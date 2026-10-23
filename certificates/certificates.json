@@ -16,5 +16,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/rust-school-certificate.png",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/rust-school-certificate.png",
     "order": 2
+  },
+  {
+    "id": "cert-1792736034666",
+    "title": "Wadhwani Certificate",
+    "issuer": "Wadhwani",
+    "date": "July 31, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/wadhwani-certificate.png",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/wadhwani-certificate.png",
+    "order": 3
   }
 ]
