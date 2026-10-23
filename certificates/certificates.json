@@ -7,5 +7,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/base-ph-certificate-of-participation.png",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/base-ph-certificate-of-participation.png",
     "order": 1
+  },
+  {
+    "id": "cert-1792723391877",
+    "title": "Rust School Certificate",
+    "issuer": "H.E.R DAO",
+    "date": "2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/rust-school-certificate.png",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/rust-school-certificate.png",
+    "order": 2
   }
 ]
