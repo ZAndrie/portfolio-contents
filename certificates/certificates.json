@@ -34,5 +34,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/canva-essentials.jpg",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/canva-essentials.jpg",
     "order": 4
+  },
+  {
+    "id": "cert-1792828549313",
+    "title": "Cyber Threat Management",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 18, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/cyber-threat-management.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/cyber-threat-management.jpg",
+    "order": 5
   }
 ]
