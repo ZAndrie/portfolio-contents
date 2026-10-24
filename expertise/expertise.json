@@ -16,5 +16,14 @@
     "year": "",
     "percentage": "100%",
     "order": 2
+  },
+  {
+    "id": "exp-1792824293989",
+    "category": "education",
+    "title": "BS Information Technology",
+    "subtitle": "Cor Jesu College",
+    "year": "2023-2027",
+    "percentage": "100%",
+    "order": 3
   }
 ]
