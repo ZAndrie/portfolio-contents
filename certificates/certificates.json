@@ -61,5 +61,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/introduction-to-cybersecurity.jpg",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/introduction-to-cybersecurity.jpg",
     "order": 7
+  },
+  {
+    "id": "cert-1792828890896",
+    "title": "Network Defense",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 18, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/network-defense.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/network-defense.jpg",
+    "order": 8
   }
 ]
