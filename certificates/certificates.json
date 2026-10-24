@@ -70,5 +70,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/network-defense.jpg",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/network-defense.jpg",
     "order": 8
+  },
+  {
+    "id": "cert-1792829038326",
+    "title": "Networking Devices and Initial Configuration",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 18, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/networking-devices-and-initial-configuration.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/networking-devices-and-initial-configuration.jpg",
+    "order": 9
   }
 ]
