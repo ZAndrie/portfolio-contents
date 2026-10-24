@@ -25,5 +25,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/wadhwani-certificate.png",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/wadhwani-certificate.png",
     "order": 3
+  },
+  {
+    "id": "cert-1792828485965",
+    "title": "Canva Essentials",
+    "issuer": "The Canva Teams",
+    "date": "October 30, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/canva-essentials.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/canva-essentials.jpg",
+    "order": 4
   }
 ]
