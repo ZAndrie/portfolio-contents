@@ -25,5 +25,14 @@
     "year": "2023-2027",
     "percentage": "100%",
     "order": 3
+  },
+  {
+    "id": "exp-1792824747514",
+    "category": "education",
+    "title": "Senior High School",
+    "subtitle": "Cor Jesu College",
+    "year": "2021-2023",
+    "percentage": "100%",
+    "order": 4
   }
 ]
