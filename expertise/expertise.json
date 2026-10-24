@@ -52,5 +52,14 @@
     "year": "2026",
     "percentage": "100%",
     "order": 6
+  },
+  {
+    "id": "exp-1792825337512",
+    "category": "experience",
+    "title": "Student Assistants",
+    "subtitle": "Cor Jesu College",
+    "year": "2023-2027",
+    "percentage": "100%",
+    "order": 7
   }
 ]
