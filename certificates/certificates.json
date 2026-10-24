@@ -52,5 +52,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/endpoint-security.jpg",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/endpoint-security.jpg",
     "order": 6
+  },
+  {
+    "id": "cert-1792828772659",
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy",
+    "date": "April 27, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/introduction-to-cybersecurity.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/introduction-to-cybersecurity.jpg",
+    "order": 7
   }
 ]
