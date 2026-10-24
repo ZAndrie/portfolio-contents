@@ -43,5 +43,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/cyber-threat-management.jpg",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/cyber-threat-management.jpg",
     "order": 5
+  },
+  {
+    "id": "cert-1792828644765",
+    "title": "Endpoint Security",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 18, 2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/endpoint-security.jpg",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/endpoint-security.jpg",
+    "order": 6
   }
 ]
