@@ -25,5 +25,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/wadhwani-certificate.png",
     "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/wadhwani-certificate.png",
     "order": 3
+  },
+  {
+    "id": "cert-1792823870739",
+    "title": "Cisco",
+    "issuer": "Cisco",
+    "date": "2026",
+    "imageUrl": "https://raw.githubusercontent.com/ZAndrie/portfolio-contents/main/certificates/cisco.pdf",
+    "repoUrl": "https://github.com/ZAndrie/portfolio-contents/blob/main/certificates/cisco.pdf",
+    "order": 4
   }
 ]
