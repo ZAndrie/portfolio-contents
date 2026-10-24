@@ -43,5 +43,14 @@
     "year": "2017-2021",
     "percentage": "100%",
     "order": 5
+  },
+  {
+    "id": "exp-1792825139535",
+    "category": "experience",
+    "title": "Quality Assurance",
+    "subtitle": "Group Base Project",
+    "year": "2026",
+    "percentage": "100%",
+    "order": 6
   }
 ]
