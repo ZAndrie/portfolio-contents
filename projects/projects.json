@@ -46,5 +46,17 @@
     "hidden": true,
     "updatedAt": "2026-10-30T05:13:12.009Z",
     "order": 4
+  },
+  {
+    "id": "gh-1403910983",
+    "title": "word counter",
+    "category": "JavaScript",
+    "subtitle": "JavaScript project featuring interactive design and robust system architecture.",
+    "imageUrl": "https://opengraph.githubassets.com/1/ZAndrie/word-counter",
+    "githubUrl": "https://github.com/ZAndrie/word-counter",
+    "projectUrl": "https://github.com/ZAndrie/word-counter",
+    "hidden": true,
+    "updatedAt": "2026-10-30T05:13:15.072Z",
+    "order": 5
   }
 ]
