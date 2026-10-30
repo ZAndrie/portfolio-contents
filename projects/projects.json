@@ -7,8 +7,9 @@
     "imageUrl": "/download/Webdesign.jpg",
     "projectUrl": "",
     "githubUrl": "https://github.com/ZAndrie",
-    "updatedAt": "2026-10-19T09:22:00.063Z",
-    "order": 2
+    "updatedAt": "2026-10-30T05:13:07.724Z",
+    "order": 2,
+    "hidden": true
   },
   {
     "id": "gh-1423995034",
