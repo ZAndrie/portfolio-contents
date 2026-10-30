@@ -34,5 +34,17 @@
     "hidden": true,
     "updatedAt": "2026-10-30T05:13:09.802Z",
     "order": 3
+  },
+  {
+    "id": "gh-1423929297",
+    "title": "Quotes REST API",
+    "category": "JavaScript",
+    "subtitle": "JavaScript project featuring interactive design and robust system architecture.",
+    "imageUrl": "https://opengraph.githubassets.com/1/ZAndrie/Quotes-REST-API",
+    "githubUrl": "https://github.com/ZAndrie/Quotes-REST-API",
+    "projectUrl": "https://github.com/ZAndrie/Quotes-REST-API",
+    "hidden": true,
+    "updatedAt": "2026-10-30T05:13:12.009Z",
+    "order": 4
   }
 ]
