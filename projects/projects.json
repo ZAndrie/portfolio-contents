@@ -22,5 +22,17 @@
     "hidden": true,
     "updatedAt": "2026-10-30T05:13:05.352Z",
     "order": 2
+  },
+  {
+    "id": "gh-1423992941",
+    "title": "guestbook api",
+    "category": "JavaScript",
+    "subtitle": "JavaScript project featuring interactive design and robust system architecture.",
+    "imageUrl": "https://opengraph.githubassets.com/1/ZAndrie/guestbook-api",
+    "githubUrl": "https://github.com/ZAndrie/guestbook-api",
+    "projectUrl": "https://github.com/ZAndrie/guestbook-api",
+    "hidden": true,
+    "updatedAt": "2026-10-30T05:13:09.802Z",
+    "order": 3
   }
 ]
