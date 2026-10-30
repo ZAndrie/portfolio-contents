@@ -9,5 +9,17 @@
     "githubUrl": "https://github.com/ZAndrie",
     "updatedAt": "2026-10-19T09:22:00.063Z",
     "order": 2
+  },
+  {
+    "id": "gh-1423995034",
+    "title": "guestbook client",
+    "category": "Frontend",
+    "subtitle": "CSS project featuring interactive design and robust system architecture.",
+    "imageUrl": "https://opengraph.githubassets.com/1/ZAndrie/guestbook-client",
+    "githubUrl": "https://github.com/ZAndrie/guestbook-client",
+    "projectUrl": "https://github.com/ZAndrie/guestbook-client",
+    "hidden": true,
+    "updatedAt": "2026-10-30T05:13:05.352Z",
+    "order": 2
   }
 ]
